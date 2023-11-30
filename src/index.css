@@ -28,8 +28,9 @@ body {
   justify-content: center;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 925px) {
   body {
     height: auto;
+    padding: 2rem;
   }
 }
