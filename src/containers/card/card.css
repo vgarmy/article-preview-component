@@ -126,11 +126,16 @@ p {
         background-color: var(--Very-Dark-Grayish-Blue) !important;
         border-bottom-left-radius: 1rem;
         border-bottom-right-radius: 1rem;
-        margin-top: 1.3rem;
+        padding: 1.3rem 3rem;
     }
 
     .toggled .card__article_info_user_share_icon {
         color: var(--Light-Grayish-Blue);
         background-color: var(--Desaturated-Dark-Blue);
+    }
+    .card__article_info_user:hover{
+        background-color: var(--Desaturated-Dark-Blue);
+        border-bottom-left-radius: 1rem;
+        border-bottom-right-radius: 1rem;
     }
 }
