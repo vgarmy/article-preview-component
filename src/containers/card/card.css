@@ -37,8 +37,6 @@ p {
     font-size: 0.8rem;
 }
 
-
-
 @media screen and (max-width: 925px) {
     .card__article {
         flex-direction: column;
